@@ -2,6 +2,8 @@
 Code for "Generative Adversarial Networks". Please cite the ArXiv paper in
 any published research work making use of this code.
 """
+
+# Import necessary Machine Learning Toolbox:
 import functools
 wraps = functools.wraps
 import itertools
